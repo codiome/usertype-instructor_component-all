@@ -1,5 +1,5 @@
 {
-  "name": "instructor all plugin",
+  "name": "instructor user all components plugin",
   "type": "helper",
   "properties": {
     "user_type": "instructor",
